@@ -1,0 +1,8 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Centrifugal Pump,Pump,55.5,12.2,85.0
+High-Pressure Valve,Valve,10.2,45.5,120.5
+Cooling Tower,Exchanger,120.0,5.0,35.0
+Gate Valve,Valve,8.5,4.2,40.0
+Industrial Boiler,Boiler,250.0,30.0,180.0
+Heat Exchanger,Exchanger,85.0,15.0,95.0
+Rotary Pump,Pump,42.3,10.1,70.5
