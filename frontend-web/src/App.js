@@ -7,7 +7,7 @@ ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend)
 
 const API_BASE = 'http://127.0.0.1:8000/api';
 
-// Configure axios defaults
+
 axios.defaults.headers.post['Content-Type'] = 'application/json';
 
 function App() {
